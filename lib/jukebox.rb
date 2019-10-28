@@ -1,3 +1,5 @@
+require "pry"
+
 def run( songs )
   help
   
